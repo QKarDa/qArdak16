@@ -21,7 +21,7 @@ end
 
 local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/shlexware/Orion/main/source')))()
 
-local Window = OrionLib:MakeWindow({Name = "Goal Simulator", HidePremium = false, SaveConfig = false, ConfigFolder = "asdsahgjasdhkgjbdsa"})
+local Window = Ardalion Lib:MakeWindow({Name = "Goal Simulator", HidePremium = false, SaveConfig = false, ConfigFolder = "asdsahgjasdhkgjbdsa"})
 local resume = coroutine.resume
 local create = coroutine.create
 local Tab = Window:MakeTab({
